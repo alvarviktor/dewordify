@@ -4,6 +4,7 @@
 	"wrappers": {
 		"table":				"<figure class='table'>",
 
+
 		"audio":				"<figure class='audio'>",
 		"image":				"<figure class='img'>",
 		"video":				"<figure class='video'>",
@@ -37,6 +38,7 @@
 		"swapper":				"<div class='swapper'>",
 		"html-comment":			"<div class='html-comment'>",
 		"checklist":			"<div class='checklist'>",
+		"matching":	    		"<div class='matching'>",
 		"interaction":			"<pre>"
 	},
 	"mappings": {
